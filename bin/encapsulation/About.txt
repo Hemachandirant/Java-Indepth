@@ -1,0 +1,2 @@
+Encapsulation - Bundlig or binding data together into single unit
+                Wrapping up the implementation of the data members in a class

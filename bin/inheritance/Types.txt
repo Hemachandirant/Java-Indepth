@@ -1,0 +1,18 @@
+1. Single inheritance
+Class A -> Class B
+2. Multilevel inheritance
+Class A -> Class B -> Class C
+3. Multiple inheritance
+(Not supported in Java) due to multiambiguity problem
+Class A     Class B
+  |             |
+  |             |
+  |____Class C__|    
+4. Hierarchical inheritance
+
+Class A  --> class B
+      |-----> Class C
+      |-----> Class D
+5. Hybrid inheritance
+   Combination of single and multiple iheritance , due to multiple inheritace is not present in java so hybrid is 
+   not supported

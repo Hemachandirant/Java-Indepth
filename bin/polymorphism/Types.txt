@@ -1,0 +1,13 @@
+1.Compile time polymorphism - Static 	polymorphism
+Acheived by Method overloading  ( In a same class, methods with same name but different parameters)
+
+2. Runtime polymorphism - Dynamic polymorphism
+Acheived by method overriding (In a different class. methods with same name but differnet parameters)
+
+
+Final keyword -- use to restrict a method or variable to be redefined
+If we create a class to final, implicitly all the methods present in the class is final
+
+Static - Cannot depend on Object and called by using class
+
+Static methods can be inherited but cannot be overridden
